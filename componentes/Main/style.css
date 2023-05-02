@@ -1,0 +1,12 @@
+.content {
+    margin-left: 190px;
+    border-left: 1px solid #9c9090;
+    padding: 1em;
+    overflow: hidden;
+}
+
+/* Margem entre os títulos h2 e parágrafos */
+.content h2
+, p {
+    margin: 16px 8px;
+}
